@@ -1,0 +1,22 @@
+
+.DS_Store
+
+venv
+
+bin/
+include/
+lib/
+share/
+etc/
+pyvenv.cfg
+
+# Python Cache and Jupyter Notebook checkpoints
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Local configuration and environment variables
+.env
+
+# IDE settings
+.vscode/
